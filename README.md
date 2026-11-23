@@ -40,7 +40,7 @@
 
 ## Готовый exe
 
-Скачать готовую сборку можно в разделе Releases: https://github.com/pySerpent/training-system/releases
+Скачать готовую сборку можно в разделе Releases: https://github.com/pySerpent/training-system/releases/tag/v1.0.0
 
 Для самостоятельной сборки выполните скрипт `build_exe.bat`. Готовая программа появляется в папке `dist\IBTraining`, запускается файл `IBTraining.exe`.
 
